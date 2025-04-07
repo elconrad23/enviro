@@ -1,4 +1,4 @@
-import 'package:enviro/app_constants/fancybutton.dart';
+import 'package:enviroewatch/app_constants/fancybutton.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
